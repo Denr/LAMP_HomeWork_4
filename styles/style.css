@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #563d7c;
+}
+
+h1 {
+    color: #563d7c;
+}
+
+.btn-purple {
+    color: #fff;
+    background-color: transparent;
+    border-color: #cdbfe3;
+}
+
+.top {
+    margin-top: 20px;
+}
+
+.btn-purple:hover, .btn-purple:focus, .btn-purple:active {
+    color: #563d7c;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+label:not(.char) {
+    color: white;
+    padding-top: 10px;
+}
+
+.char {
+    color: white;
+
+}
+
+#alert {
+    margin-top: 20px;
+}
+
+table {
+    font-size: 12pt;
+    color: white;
+}
+
+tbody > tr:hover {
+    color: #563d7c;
+}

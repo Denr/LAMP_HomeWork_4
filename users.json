@@ -1,0 +1,26 @@
+[
+    {
+        "mail": "admin@admin.com",
+        "pass": "Rroot123",
+        "sex": "male",
+        "subscribe": "yes"
+    },
+    {
+        "mail": "tester@tester.com",
+        "pass": "Test123qwe",
+        "sex": "female",
+        "subscribe": "no"
+    },
+    {
+        "mail": "root@root.com",
+        "pass": "qwertyD123",
+        "sex": "male",
+        "subscribe": "no"
+    },
+    {
+        "mail": "denrik7@gmail.com",
+        "pass": "Denrik712",
+        "sex": "male",
+        "subscribe": "no"
+    }
+]
